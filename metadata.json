@@ -1,0 +1,6 @@
+{
+  "name": "Dukaan AI - Mashhoori Studio",
+  "description": "Professional Play Store ready studio for Pakistani shopkeepers to generate viral reels, talking avatars, and marketing ads in Urdu, Punjabi, Saraiki, Pashto, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
